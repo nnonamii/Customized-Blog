@@ -1,4 +1,5 @@
 # 개요
+
 ## 프로젝트 소개
 AI 글 자동완성 기능이 구현된 개인 블로그
 (AI autocomplete personal blog project)
@@ -57,22 +58,22 @@ ALTER TABLE IF EXISTS public.blog_app_blogpost
 ![image](https://github.com/deok9614/2a2seung_project/assets/90494150/1023604c-59c6-4fdc-8fdd-573587fbc562)
 
 
-### write page
+### write page 🌟
 ![image](https://github.com/deok9614/2a2seung_project/assets/90494150/2e114c68-e3bc-4285-a67e-2c678fe74931)
 
 
 
 
-# 구현기능 🌟🌟
+# 구현기능
 ### api_key를 이용한 AI 글 자동 완성 기능 기능
-![aip를 이용한 소셜 로그인 기능](https://github.com/deok9614/2a2seung_project/assets/90494150/6049b575-a3fd-4817-97db-e421d5fbd66e)
+![api를 이용한 소셜 로그인 기능](https://github.com/deok9614/2a2seung_project/assets/90494150/6049b575-a3fd-4817-97db-e421d5fbd66e)
 
 
 ### nave, google aip를 이용한 소셜 로그인 기능
 ![소셜로그인기능](https://github.com/deok9614/2a2seung_project/assets/90494150/468dfad9-11d5-46e8-b6ac-e613ca7d607a)
 
 
-### 텍스트 에디터 (tinyMCE)를 이용한 편리한 글 작성과 이미지 업로드 기능
+### 텍스트 에디터 (tinyMCE)를 이용한 편리한 글 작성과 이미지 업로드 기능 🌟
 ![텍스트 에디터 (tinyMCE)를 이용한 편리한 글 작성과 이미지 업로드 기능](https://github.com/deok9614/2a2seung_project/assets/90494150/ecc36c88-468c-40fd-bae4-f8f69ffceef2)
 
 
