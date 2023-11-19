@@ -1,8 +1,8 @@
-# 2a2seung_project 🌟
+# 프로젝트 소개
+AI 글 자동완성 기능이 구현된 개인 블로그
+(AI autocomplete personal blog project)
 
-AI autocomplete personal blog project
-
-# Tech Stack 🌟
+# 사용 기술 스택 🌟
 <pre>
 PostgreSQL 15 => DB
 Pgadmin4 7.5
